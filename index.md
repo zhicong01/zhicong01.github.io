@@ -4,20 +4,18 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
 Here is **Zhicong Wu (吴智聪)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am currently a master's student at the Institute of Artificial Intelligence, Xiamen University, majoring in Artificial Intelligence
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2026 Fall. Contact me if you have any leads!**
 
 - **Sep 2019 - June 2023:** Hangzhou Dianzi University (Artificial Intelligence Science and Technology)
-- **Sep 2023 - Now:**Xiamen University (Artificial Intelligence)
+- **Sep 2023 - Now:** Xiamen University (Artificial Intelligence)
 
 <br>
 
@@ -28,7 +26,7 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 - Computer Vision (Camouflage Object Detection)
 - Oracle Bone Script Interpretation
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on Oracle Bone Script Interpretation.
 
 <br>
 
