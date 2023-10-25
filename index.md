@@ -4,18 +4,18 @@ layout: page
 
 # About Me
 
-Here is **Zhicong Wu (吴智聪)**.
+**吴智聪** 
 
-I am currently a master's student at the Institute of Artificial Intelligence, Xiamen University, majoring in Artificial Intelligence
+本人目前于厦门大学人工智能研究院攻读人工智能专业工学硕士学位
+
+
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2026 Fall. Contact me if you have any leads!**
-
-- **Sep 2019 - June 2023:** Hangzhou Dianzi University (Artificial Intelligence Science and Technology)
-- **Sep 2023 - Now:** Xiamen University (Artificial Intelligence)
+- **Sep 2019 - June 2023:** 杭州电子科技大学 - 智能科学与技术（本科）
+- **Sep 2023 - June 2026:** 厦门大学 - 人工智能（硕士）
 
 <br>
 
@@ -23,10 +23,10 @@ I am currently a master's student at the Institute of Artificial Intelligence, X
 
 ## Research Interests
 
-- Computer Vision (Camouflage Object Detection)
-- Oracle Bone Script Interpretation
+- 计算机视觉（伪装目标检测）
+- 甲骨文考释
 
-My current research focuses on Oracle Bone Script Interpretation.
+
 
 <br>
 
@@ -40,4 +40,5 @@ My current research focuses on Oracle Bone Script Interpretation.
 - **May 2023：**Collected the Finalist Award in MCM 2023.
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+
+  
