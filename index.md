@@ -6,8 +6,6 @@ layout: page
 
 本人目前于厦门大学人工智能研究院攻读人工智能专业工学硕士学位，师从史晓东教授。
 
-
-
 <br>
 
 ## Academic Background
@@ -29,6 +27,8 @@ layout: page
 <br>
 
 ---
+
+## Patent
 
 ## News and Updates
 
