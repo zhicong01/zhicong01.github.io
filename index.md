@@ -28,8 +28,6 @@ layout: page
 
 ---
 
-## Patent
-
 ## News and Updates
 
 
