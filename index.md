@@ -4,9 +4,7 @@ layout: page
 
 # About Me
 
-**吴智聪** 
-
-本人目前于厦门大学人工智能研究院攻读人工智能专业工学硕士学位
+本人目前于厦门大学人工智能研究院攻读人工智能专业工学硕士学位，师从史晓东教授。
 
 
 
@@ -34,11 +32,5 @@ layout: page
 
 ## News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
 
-  
+
