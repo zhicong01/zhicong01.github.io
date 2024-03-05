@@ -2,37 +2,37 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
- 本人目前于**厦门大学**攻读人工智能专业工学硕士学位，研究方向为AI Agent。2023年毕业于杭州电子科技大学，获工学学士学位。发表IEEE汇刊论文一篇，授权发明专利一项。
+I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University, advised by Prof. Xiaodong Shi (史晓东). I received the B.S. degree from Hangzhou Dianzi University, advised by Prof. Xiaofei Zhou (周晓飞).
 
-<br>
+My research interests include Interpretation of Oracle Bone Inscriptions and AI Agent. I have published 1 paper in TMM and obtained 1 authorized invention patent.
 
-## Academic Background
+### 📖Publications
 
-- **Sep 2019 - June 2023:** 杭州电子科技大学（本科）
+#### Paper
 
- 自动化学院（人工智能学院） - **智能科学与技术**专业 - 师从周晓飞教授
+- Decoupling and Integration Network for Camouflaged Object Detection.<br>Xiaofei Zhou, **Zhicong Wu**, Runmin Cong. IEEE Transactions on Multimedia - 2024 - accept
 
-- **Sep 2023 - June 2026:** 厦门大学 （硕士）
+#### Patent
 
- 人工智能研究院 - **人工智能**专业 - 师从史晓东教授
+- 一种基于主体区域引导的伪装目标检测方法<br>**吴智聪**; 周晓飞; 张继勇; 李世锋; 周振; 何帆. 中国发明专利 - 2023 - 授权
 
-<br>
+### 🏫Educations
 
----
+- Sep 2023 - June 2026, Master, Artificial Intelligence, Xiamen University.<br>
+- Sep 2019 - June 2023, Undergraduate, Intelligence Science and Technology, Hangzhou Dianzi University<br>
 
-## Research Interests
+### 🔥Research Interests
 
-- 计算机视觉（伪装目标检测）
-- 甲骨文考释
-- AI agent
+**Undergraduate**
 
-<br>
+- Camouflflaged Object Detection 
 
----
+**Master**
 
-## News and Updates
+- Interpretation of Oracle Bone Inscriptions
+- AI Agent
 
 
 
