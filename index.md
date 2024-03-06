@@ -13,7 +13,7 @@ I am currently pursuing the M.S. degree in Institute of Artificial Intelligence 
 
 #### Paper
 
-- Decoupling and Integration Network for Camouflaged Object Detection.<br>Xiaofei Zhou, **Zhicong Wu**, Runmin Cong. IEEE Transactions on Multimedia - 2024 - accept
+- [Decoupling and Integration Network for Camouflaged Object Detection](https://ieeexplore.ieee.org/abstract/document/10417767).<br>Xiaofei Zhou, **Zhicong Wu**, Runmin Cong. IEEE Transactions on Multimedia - 2024 - accept
 
 #### Patent
 
