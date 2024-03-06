@@ -14,6 +14,8 @@ layout: page
 #### Paper
 
 - <a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">Decoupling and Integration Network for Camouflaged Object Detection</a><br>Xiaofei Zhou, **Zhicong Wu**, Runmin Cong. IEEE Transactions on Multimedia - 2024 - accept
+- <span><div style="background-color: #000099; color: white; padding: 5px; display: inline-block; font-size: 9px; height: 20px; text-align: center;">TMM 2024</div></span><a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">Decoupling and Integration Network for Camouflaged Object Detection</a><br>Xiaofei Zhou, **Zhicong Wu**, Runmin Cong. IEEE Transactions on Multimedia - 2024 - accept
+
 
 
 #### Patent
