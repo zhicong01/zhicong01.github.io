@@ -5,7 +5,7 @@ layout: page
 ### About Me
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University, advised by Prof. Xiaodong Shi (史晓东). I received the B.S. degree from Hangzhou Dianzi University, advised by Prof. Xiaofei Zhou (周晓飞).<br>&nbsp;&nbsp;&nbsp;&nbsp;My research interests include Interpretation of Oracle Bone Inscriptions and AI Agent. I have published 1 paper in TMM and obtained 1 authorized invention patent.
+&nbsp;&nbsp;&nbsp;&nbsp;**I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University**, advised by Prof. Xiaodong Shi (史晓东). I received the B.S. degree from Hangzhou Dianzi University, advised by Prof. Xiaofei Zhou (周晓飞).<br>&nbsp;&nbsp;&nbsp;&nbsp;My research interests include Interpretation of **Oracle Bone Inscriptions** and AI Agent. I have published 1 paper in TMM and obtained 1 authorized invention patent.
 
 ---
 
@@ -14,7 +14,6 @@ layout: page
 #### Paper
 
 - <a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">Decoupling and Integration Network for Camouflaged Object Detection</a><br>Xiaofei Zhou, **Zhicong Wu**, Runmin Cong. IEEE Transactions on Multimedia - 2024 - accept
-- <span><div style="background-color: #000099; color: white; padding: 5px; display: inline-block; font-size: 9px; height: 20px; text-align: center;">TMM 2024</div></span><a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">Decoupling and Integration Network for Camouflaged Object Detection</a><br>Xiaofei Zhou, **Zhicong Wu**, Runmin Cong. IEEE Transactions on Multimedia - 2024 - accept
 
 #### Patent
 
