@@ -17,7 +17,7 @@ I am currently pursuing the M.S. degree in Institute of Artificial Intelligence 
 
 #### Patent
 
-- 一种基于主体区域引导的伪装目标检测方法<br>**吴智聪**; 周晓飞; 张继勇; 李世锋; 周振; 何帆. 中国发明专利 - 2023 - 授权
+- [一种基于主体区域引导的伪装目标检测方法](https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS)<br>**吴智聪**; 周晓飞; 张继勇; 李世锋; 周振; 何帆. 中国发明专利 - 2023 - 授权
 
 ---
 
