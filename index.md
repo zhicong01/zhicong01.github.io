@@ -23,21 +23,23 @@ layout: page
 
 ### 🏫Educations
 
-- Sep 2023 - June 2026, Master, Artificial Intelligence, Xiamen University.<br>
+- Sep 2023 - Now, Master, Artificial Intelligence, Xiamen University.<br>
 - Sep 2019 - June 2023, Undergraduate, Intelligence Science and Technology, Hangzhou Dianzi University.<br>
+
+### 🌇Work
+
+- Aug 2024 - Now, Research Intern, Guangming Laboratory
 
 ---
 
 ### 🔥Research Interests
-
-**Undergraduate**
-
-- Camouflflaged Object Detection 
 
 **Master**
 
 - Interpretation of Oracle Bone Inscriptions
 - AIGC
 
+**Undergraduate**
 
+- Camouflflaged Object Detection 
 
