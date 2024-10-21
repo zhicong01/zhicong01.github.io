@@ -5,7 +5,7 @@ layout: page
 ### About Me
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University**, advised by Prof. Xiaodong Shi (史晓东). I received the B.S. degree from Hangzhou Dianzi University, advised by Prof. Xiaofei Zhou (周晓飞).<br>&nbsp;&nbsp;&nbsp;&nbsp;My research interests include **Interpretation of Oracle Bone Inscriptions** and AIGC. I have published 1 paper in TMM and obtained 1 authorized invention patent.
+&nbsp;&nbsp;&nbsp;&nbsp;**I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University**, advised by Prof. Xiaodong Shi (史晓东). I received the B.S. degree from Hangzhou Dianzi University, advised by Prof. Xiaofei Zhou (周晓飞).<br>&nbsp;&nbsp;&nbsp;&nbsp;My research interests include **Oracle Bone Inscriptions Deciphering** and **3D Gaussian Splatting**. I have published 1 paper in TMM and obtained 1 authorized invention patent.
 
 ---
 
@@ -30,6 +30,9 @@ layout: page
 ### 🌇Work
 
 - Aug 2024 - Now, Research Intern<br>**Guangming Laboratory**
+- May 2024 - Aug 2024, Image Algorithms Research and Development Engineer, Remote, <br>**DaHuaTech**
+
+
 
 ---
 
@@ -37,8 +40,8 @@ layout: page
 
 **Master**
 
-- Interpretation of Oracle Bone Inscriptions
-- AIGC
+- Oracle Bone Inscriptions Deciphering
+- 3D Gaussian Splatting
 
 **Undergraduate**
 
