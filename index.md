@@ -20,6 +20,12 @@ layout: page
 
 - <a href="https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">一种基于主体区域引导的伪装目标检测方法</a><br>**吴智聪**; 周晓飞; 张继勇; 李世锋; 周振; 何帆.<br>*China Invention Patent (Granted) - 2023*
 
+***
+
+### 🏹Projects
+
+- 基于甲骨文多模态大模型的多元信息甲骨文辅助考释模型<br>史晓东; **吴智聪**; 陈毅东; 周子涵; 黄崇轩.<br>*腾讯探元计划 - 2024*
+
 ---
 
 ### 🏫Educations
