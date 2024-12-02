@@ -11,20 +11,23 @@ layout: page
 
 ### 📖Publications
 
+$\dagger$: Undergraduate Advisor; $\ddagger$: Internship Advisor
+
 #### Paper
 
 - <a href="https://arxiv.org/abs/2409.06381" style="color:#3399FF;">A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions</a><br>**Zhicong Wu**, Qifeng Su, Ke Gu, Xiaodong Shi.<br>*Arxiv - 2024*
-- <a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">Decoupling and Integration Network for Camouflaged Object Detection</a><br>Xiaofei Zhou (Undergraduate Advisor), **Zhicong Wu**, Runmin Cong.<br>*IEEE Transactions on Multimedia - 2024*
+- <a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">Decoupling and Integration Network for Camouflaged Object Detection</a><br>Xiaofei Zhou$\dagger$, **Zhicong Wu**, Runmin Cong.<br>*IEEE Transactions on Multimedia - 2024*
 
 #### Patent
 
-- <a href="https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">一种基于主体区域引导的伪装目标检测方法</a><br>**吴智聪**; 周晓飞; 张继勇; 李世锋; 周振; 何帆.<br>*China Invention Patent (Granted) - 2023*
+- A Sparse-View 3D Scene Reconstruction Method Based on Multimodal Feature Guidance<br>Ming Li$\ddagger$, **Zhicong Wu**, Fei Ma.<br>*China Invention Patent (Under Review) - 2024*
+- <a href="https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">A Camouflaged Object Detection Method Based on Target Region Guidance</a><br>**Zhicong Wu**, Xiaofei Zhou, Jiyong Zhang, Shifeng Li, Zhen Zhou, Fan He.<br>*China Invention Patent (Granted) - 2023*
 
 ***
 
 ### 🏹Projects
 
-- 基于甲骨文多模态大模型的多元信息甲骨文辅助考释模型<br>史晓东; **吴智聪**; 陈毅东; 周子涵; 黄崇轩.<br>*腾讯探元计划 - 2024*
+- Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model<br>*Tencent Tanyuan Plan - 2024*
 
 ---
 
@@ -37,8 +40,6 @@ layout: page
 
 - Aug 2024 - Now, Research Intern<br>**Guangming Laboratory**
 - May 2024 - Aug 2024,  R&D Engineer (Image Algorithm Intern)<br>**DaHuaTech** (Remote)
-
-
 
 ---
 
