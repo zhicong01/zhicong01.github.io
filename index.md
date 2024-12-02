@@ -15,19 +15,19 @@ layout: page
 
 #### Paper
 
-- <span style="background-color: #D6EAF8; padding: 0.2em; border-radius: 4px;">A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions. </span><a href="https://arxiv.org/abs/2409.06381" style="color:#3399FF;">[paper]</a><br>**Zhicong Wu**, Qifeng Su, Ke Gu, Xiaodong Shi.<br>*Arxiv - 2024*
-- <span style="background-color: #D6EAF8; padding: 0.2em; border-radius: 4px;">Decoupling and Integration Network for Camouflaged Object Detection. </span><a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">[paper]</a><br>Xiaofei Zhou†, **Zhicong Wu**, Runmin Cong.<br>*IEEE Transactions on Multimedia - 2024*
+- <span style="background-color: #D6EAF8; padding: 0.2em; border-radius: 4px;">**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions.** </span><a href="https://arxiv.org/abs/2409.06381" style="color:#3399FF;">[paper]</a><br>**Zhicong Wu**, Qifeng Su, Ke Gu, Xiaodong Shi.<br>*Arxiv - 2024*
+- <span style="background-color: #D6EAF8; padding: 0.2em; border-radius: 4px;">**Decoupling and Integration Network for Camouflaged Object Detection.** </span><a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">[paper]</a><br>Xiaofei Zhou†, **Zhicong Wu**, Runmin Cong.<br>*IEEE Transactions on Multimedia - 2024*
 
 #### Patent
 
-- <span style="background-color: #D4EFDF; padding: 0.2em; border-radius: 4px;">A Sparse-View 3D Scene Reconstruction Method Based on Multimodal Feature Guidance. </span><br>Ming Li‡, **Zhicong Wu**, Fei Ma.<br>*China Invention Patent (Under Review) - 2024*
-- <span style="background-color: #D4EFDF; padding: 0.2em; border-radius: 4px;">A Camouflaged Object Detection Method Based on Target Region Guidance. </span><a href="https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a><br>**Zhicong Wu**, Xiaofei Zhou, Jiyong Zhang, Shifeng Li, Zhen Zhou, Fan He.<br>*China Invention Patent (Granted) - 2023*
+- <span style="background-color: #D4EFDF; padding: 0.2em; border-radius: 4px;">**A Sparse-View 3D Scene Reconstruction Method Based on Multimodal Feature Guidance.** </span><br>Ming Li‡, **Zhicong Wu**, Fei Ma.<br>*China Invention Patent (Under Review) - 2024*
+- <span style="background-color: #D4EFDF; padding: 0.2em; border-radius: 4px;">**A Camouflaged Object Detection Method Based on Target Region Guidance.** </span><a href="https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a><br>**Zhicong Wu**, Xiaofei Zhou, Jiyong Zhang, Shifeng Li, Zhen Zhou, Fan He.<br>*China Invention Patent (Granted) - 2023*
 
 ***
 
 ### 🏹Projects
 
-- <span style="background-color: #FAD7A0; padding: 0.2em; border-radius: 4px;">Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model</span><br>*Tencent Tanyuan Plan - 2024*
+- <span style="background-color: #FAD7A0; padding: 0.2em; border-radius: 4px;">**Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model**</span><br>*Tencent Tanyuan Plan - 2024*
 
 ---
 
@@ -53,3 +53,4 @@ layout: page
 **Undergraduate**
 
 - Camouflflaged Object Detection 
+
