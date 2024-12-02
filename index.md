@@ -15,7 +15,7 @@ layout: page
 
 #### Paper
 
-- <span style="background-color: #E3F2FD; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions. </span><a href="https://arxiv.org/abs/2409.06381" style="color:#3399FF;">[paper]</a><br><span style="font-size: 0.9em;">**Zhicong Wu**, Qifeng Su, Ke Gu, Xiaodong Shi.</span><br>*Arxiv - 2024*
+- <span style="background-color: #F0F9FE; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions. </span><a href="https://arxiv.org/abs/2409.06381" style="color:#3399FF;">[paper]</a><br><span style="font-size: 0.9em;">**Zhicong Wu**, Qifeng Su, Ke Gu, Xiaodong Shi.</span><br>*Arxiv - 2024*
 - <span style="background-color: #E3F2FD; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Decoupling and Integration Network for Camouflaged Object Detection. </span><a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">[paper]</a><br><span style="font-size: 0.9em;">Xiaofei Zhou†, **Zhicong Wu**, Runmin Cong.</span><br>*IEEE Transactions on Multimedia - 2024*
 
 #### Patent
