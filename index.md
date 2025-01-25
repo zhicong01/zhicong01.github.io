@@ -28,7 +28,7 @@ layout: page
 
 ### 🏹Projects
 
-- <span style="background-color: #F0F9FE; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model.</span><br>*Tencent Tanyuan Plan - 2024*
+- <span style="background-color: #F0F9FE; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model.</span><a href="https://mp.weixin.qq.com/s/rpsJ3whifQgc_oZ5uwtboA" style="color:#3399FF;">[news: 厦大尝试AI大模型破译甲骨文]</a><br>*Tencent Tanyuan Plan - 2024*
 
 ---
 
