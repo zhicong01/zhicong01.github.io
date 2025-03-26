@@ -16,9 +16,9 @@ layout: page
 #### Paper
 
 - <span style="background-color: #F0F9FE; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions. </span><a href="https://arxiv.org/abs/2409.06381" style="color:#3399FF;">[paper]</a><br><span style="font-size: 0.9em;">**Zhicong Wu**, Qifeng Su, Ke Gu, Xiaodong Shi.</span><br>*Arxiv - 2024*
-- <span style="background-color: #F0F9FE; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Decoupling and Integration Network for Camouflaged Object Detection. </span><a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">[paper]</a><br><span style="font-size: 0.9em;">Xiaofei Zhou†, **Zhicong Wu**, Runmin Cong.</span><br>*IEEE Transactions on Multimedia - 2024*
-- Dynamic Feature Fusion for Sign Language Translation Using HyperNetworks.<br><span style="font-size: 0.9em;">Ruiquan Zhang, Rui Zhao, **Zhicong Wu**, Liang Zhang, Haoqi Zhang, Yidong Chen.</span><br>*NAACL Findings - 2025*
-- End-to-End Lyric-to-Melody Generation via Chord Integration and Bar-Level Modeling.<br><span style="font-size: 0.9em;">Ke Gu, Peng Bai, Zhen Lei, Yue Zhou, **Zhicong Wu**, Xiaodong Shi.</span><br>*IEEE International Conference on Multimedia&Expo - 2025*
+- <span style="background-color: #F0F9FE; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Decoupling and Integration Network for Camouflaged Object Detection. </span><a href="https://ieeexplore.ieee.org/abstract/document/10417767" style="color:#3399FF;">[paper]</a><br><span style="font-size: 0.9em;">Xiaofei Zhou†, **Zhicong Wu**, Runmin Cong.</span><br>*IEEE Transactions on Multimedia (TMM) - 2024*
+- Dynamic Feature Fusion for Sign Language Translation Using HyperNetworks.<br><span style="font-size: 0.9em;">Ruiquan Zhang, Rui Zhao, **Zhicong Wu**, Liang Zhang, Haoqi Zhang, Yidong Chen.</span><br>*Findings of Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL Findings) - 2025*
+- End-to-End Lyric-to-Melody Generation via Chord Integration and Bar-Level Modeling.<br><span style="font-size: 0.9em;">Ke Gu, Peng Bai, Zhen Lei, Yue Zhou, **Zhicong Wu**, Xiaodong Shi.</span><br>*IEEE International Conference on Multimedia&Expo (ICME) - 2025*
 
 #### Patent
 
