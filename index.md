@@ -45,7 +45,7 @@ layout: page
 
 ### 🌇Work
 
-- Aug 2024 - Now, Research Intern<br>**Guangming Laboratory**
+- Aug 2024 - Apr 2025, Research Intern<br>**Guangming Laboratory**
 - May 2024 - Aug 2024,  R&D Engineer (Image Algorithm Intern)<br>**DaHuaTech** (Remote)
 
 ---
