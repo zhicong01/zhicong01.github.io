@@ -5,7 +5,7 @@ layout: page
 ### About Me
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University**, advised by Prof. Xiaodong Shi (史晓东). During this period, I completed an internship at Guangming Laboratory, advised by Prof. Ming Li (李明). I received the B.S. degree from Hangzhou Dianzi University, advised by Prof. Xiaofei Zhou (周晓飞).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University**, advised by Prof. Xiaodong Shi (史晓东). During this period, I completed an internship at Guangming Laboratory, advised by Prof. Ming Li (李明). Previously, I received the B.S. degree from Hangzhou Dianzi University, advised by Prof. Xiaofei Zhou (周晓飞).<br>
 
 ---
 
