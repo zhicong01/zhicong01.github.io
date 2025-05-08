@@ -13,7 +13,6 @@ layout: page
 
 - AI for Oracle Bone Inscriptions
 - Generalizable 3D Gaussian Splatting
-
 - Camouflaged Object Detection
 
 ***
