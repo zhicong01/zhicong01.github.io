@@ -33,9 +33,7 @@ layout: page
 
 #### Patent
 
-- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Sparse-View 3D Scene Reconstruction Method Based on Multimodal Feature Guidance. </span><br><span style="font-size: 0.9em;">Ming Li†, **Zhicong Wu**, Fei Ma. (†: Internship Supervisor
-
-     )</span><br><span style="font-size: 0.9em;">*China Invention Patent (Published) - 2024 - <a href="https://kns.cnki.net/kcms2/article/abstract?v=iIrmkp53Lzw9VRt0_hXai-bIf2hpNqIYqLiAjqjzTSXYb7uUFqbhljdXy3QkgWgVHV2hBsSQATq9BqFLpuSUVWNrnvZgZNXkQ_jiWp6_ypzFZ4EmFtKsxSURzmhJHawQAuct4JG2HZQDonS2ozTxJafGzAUsxtaxdUpEnsqPcI_i7zGfORlG8A==&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a>*</span>
+- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Sparse-View 3D Scene Reconstruction Method Based on Multimodal Feature Guidance. </span><br><span style="font-size: 0.9em;">Ming Li†, **Zhicong Wu**, Fei Ma. (†: Internship Supervisor)</span><br><span style="font-size: 0.9em;">*China Invention Patent (Published) - 2024 - <a href="https://kns.cnki.net/kcms2/article/abstract?v=iIrmkp53Lzw9VRt0_hXai-bIf2hpNqIYqLiAjqjzTSXYb7uUFqbhljdXy3QkgWgVHV2hBsSQATq9BqFLpuSUVWNrnvZgZNXkQ_jiWp6_ypzFZ4EmFtKsxSURzmhJHawQAuct4JG2HZQDonS2ozTxJafGzAUsxtaxdUpEnsqPcI_i7zGfORlG8A==&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a>*</span>
 
 - <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Camouflaged Object Detection Method Based on Target Region Guidance. </span><br><span style="font-size: 0.9em;">**Zhicong Wu**, Xiaofei Zhou, Jiyong Zhang, Shifeng Li, Zhen Zhou, Fan He.</span><br><span style="font-size: 0.9em;">*China Invention Patent (Granted) - 2023 - <a href="https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a>*</span>
 
