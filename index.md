@@ -21,7 +21,7 @@ layout: page
 
 #### Preprints
 
-- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">**PerformSinger: Multimodal Singing Voice Synthesis Leveraging Synchronized Lip Cues from Singing Performance Videos.** </span><br><span style="font-size: 0.9em;">Ke Gu‡, **Zhicong Wu**‡, Peng Bai, Junchen Lu, Xiaodong Shi, Xinyuan Qian. (‡: Equal Contributors)</span></span><br><span style="font-size: 0.9em;">*Arxiv - 2025*</span>
+- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">**PerformSinger: Multimodal Singing Voice Synthesis Leveraging Synchronized Lip Cues from Singing Performance Videos.** </span><br><span style="font-size: 0.9em;">Ke Gu‡, **Zhicong Wu**‡, Peng Bai, Junchen Lu, Xiaodong Shi, Xinyuan Qian. (‡: Equal Contributors)</span><br><span style="font-size: 0.9em;">*Arxiv - 2025*</span>
 
 #### Paper
 
