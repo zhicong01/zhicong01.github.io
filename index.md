@@ -9,7 +9,7 @@ layout: page
 
 ---
 
-### 🔥Research Interests
+### 🔥 Research Interests
 
 - **Al for Health** 
 - **AI for Oracle Bone Inscriptions** 
@@ -17,7 +17,7 @@ layout: page
 
 ***
 
-### 📖Selected Publications
+### 📖 Selected Publications
 
 #### Preprints
 
@@ -37,13 +37,13 @@ layout: page
 
 ***
 
-### 🏹Projects
+### 🏹 Projects
 
 - <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model.</span><br><span style="font-size: 0.9em;">*Tencent Tanyuan Plan (腾讯探元计划 ) - 2024 - <a href="https://mp.weixin.qq.com/s/rpsJ3whifQgc_oZ5uwtboA" style="color:#3399FF;">[news]</a>*</span>
 
 ***
 
-### 🎖️Award
+### 🎖️ Award
 
 - 2025 首届“AI+甲骨文”大赛学术赛道 - 优秀奖（全国仅3项）
 - 2024 腾讯探元计划 “创新探索型项目” TOP10
@@ -51,12 +51,12 @@ layout: page
 
 ---
 
-### 🏫Educations
+### 🏫 Educations
 
 - Sep 2023 - Now, Master<br>Artificial Intelligence, **Xiamen University**.<br>
 - Sep 2019 - June 2023, Undergraduate<br>Intelligence Science and Technology, **Hangzhou Dianzi University**.<br>
 
-### 🌇Work
+### 🌇 Work
 
 - Aug 2024 - Apr 2025, Research Intern<br>**Guangming Laboratory**
 - May 2024 - Aug 2024,  R&D Engineer (Image Algorithm Intern)<br>**DaHuaTech** (Remote)
