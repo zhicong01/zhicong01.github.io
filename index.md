@@ -11,9 +11,9 @@ layout: page
 
 ### 🔥Research Interests
 
-- AI for Oracle Bone Inscriptions (Decipherment and Translation)
-- Generalizable 3D Gaussian Splatting
-- Camouflaged Object Detection
+- **Al for Health** 
+- **AI for Oracle Bone Inscriptions** 
+- **Computer Vision**: Generalizable 3D Gaussian Splatting, Camouflaged Object Detection
 
 ***
 
@@ -34,14 +34,22 @@ layout: page
 
 #### Patent
 
-- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Sparse-View 3D Scene Reconstruction Method Based on Multimodal Feature Guidance. </span><br><span style="font-size: 0.9em;">Ming Li†, **Zhicong Wu**, Fei Ma. (†: Internship Supervisor)</span><br><span style="font-size: 0.9em;">*China Invention Patent (Published) - 2024 - <a href="https://kns.cnki.net/kcms2/article/abstract?v=iIrmkp53Lzw9VRt0_hXai-bIf2hpNqIYqLiAjqjzTSXYb7uUFqbhljdXy3QkgWgVHV2hBsSQATq9BqFLpuSUVWNrnvZgZNXkQ_jiWp6_ypzFZ4EmFtKsxSURzmhJHawQAuct4JG2HZQDonS2ozTxJafGzAUsxtaxdUpEnsqPcI_i7zGfORlG8A==&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a>*</span>
+- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Sparse-View 3D Scene Reconstruction Method Based on Multimodal Feature Guidance. </span><br><span style="font-size: 0.9em;">Ming Li†, **Zhicong Wu**, Fei Ma. (†: Internship Supervisor)</span><br><span style="font-size: 0.9em;">*China Invention Patent (Granted) - 2024 - <a href="https://kns.cnki.net/kcms2/article/abstract?v=iIrmkp53Lzw9VRt0_hXai-bIf2hpNqIYqLiAjqjzTSXYb7uUFqbhljdXy3QkgWgVHV2hBsSQATq9BqFLpuSUVWNrnvZgZNXkQ_jiWp6_ypzFZ4EmFtKsxSURzmhJHawQAuct4JG2HZQDonS2ozTxJafGzAUsxtaxdUpEnsqPcI_i7zGfORlG8A==&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a>*</span>
 - <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">A Camouflaged Object Detection Method Based on Target Region Guidance. </span><br><span style="font-size: 0.9em;">**Zhicong Wu**, Xiaofei Zhou, Jiyong Zhang, Shifeng Li, Zhen Zhou, Fan He.</span><br><span style="font-size: 0.9em;">*China Invention Patent (Granted) - 2023 - <a href="https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3Od0pWaxuBd1ZhHWGmkbwMQKq9FWyilqiu3SsS9mgr7SkzYPDA_A2FvSJS-yfz0GcpIc7vJQyK9M8M_-AnpHejJOB08_ZKWN3bBDLEuagLH-5aAoRJyjPme2zBiN1vuXdU8=&uniplatform=NZKPT&language=CHS" style="color:#3399FF;">[patent]</a>*</span>
 
 ***
 
 ### 🏹Projects
 
-- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model.</span><br><span style="font-size: 0.9em;">*Tencent Tanyuan Plan - 2024 - <a href="https://mp.weixin.qq.com/s/rpsJ3whifQgc_oZ5uwtboA" style="color:#3399FF;">[news]</a>*</span>
+- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">Multi-information Oracle Bone Inscription Decipherment Model Based on Oracle Bone Inscription Multimodal Large Model.</span><br><span style="font-size: 0.9em;">*Tencent Tanyuan Plan (腾讯探元计划 ) - 2024 - <a href="https://mp.weixin.qq.com/s/rpsJ3whifQgc_oZ5uwtboA" style="color:#3399FF;">[news]</a>*</span>
+
+***
+
+### 🎖️Award
+
+- 2025 首届“AI+甲骨文”大赛学术赛道 - 优秀奖（全国仅3项）
+- 2024 腾讯探元计划 “创新探索型项目” TOP10
+- 2024 “大华杯”技术创新大赛高校创新赛全赛道 - 三等奖（二值分割赛题第一）
 
 ---
 
