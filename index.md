@@ -13,7 +13,7 @@ layout: page
 
 - **Al for Health** 
 - **AI for Oracle Bone Inscriptions** 
-- **Computer Vision**: Generalizable 3D Gaussian Splatting, Camouflaged Object Detection
+- **Computer Vision**
 
 ***
 
