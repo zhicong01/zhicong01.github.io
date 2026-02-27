@@ -8,6 +8,8 @@ title: Publications
 
 #### Preprints
 
+- <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">**DSA-SRGS: Super-Resolution Gaussian Splatting for Dynamic Sparse-View DSA Reconstruction.** </span><br><span style="font-size: 0.9em;">Shiyu Zhang‡, **Zhicong Wu**‡, Huangxuan Zhao, Zhentao Liu, Lei Chen, Yong Luo, Zengmao Wang, Lefei Zhang, Zhiming Cui, Ziwen Ke, Bo Du. (‡: Equal Contributors)</span><br><span style="font-size: 0.9em;">*Arxiv - 2026 - <a href="https://arxiv.org/" style="color:#3399FF;">[paper]</a>*</span> 
+
 #### Paper
 
 - <span style="background-color: #FFFFFF; padding: 0.2em; border-radius: 4px; word-wrap: overflow-wrap: word-break: break-all;">**PerformSinger: Multimodal Singing Voice Synthesis Leveraging Synchronized Lip Cues from Singing Performance Videos.** </span><br><span style="font-size: 0.9em;">Ke Gu‡, **Zhicong Wu**‡, Peng Bai, Junchen Lu, Xiaodong Shi, Xinyuan Qian. (‡: Equal Contributors)</span><br><span style="font-size: 0.9em;">*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) - 2026 - <a href="https://arxiv.org/abs/2509.22718" style="color:#3399FF;">[paper]</a>*</span> 
